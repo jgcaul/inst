@@ -31,6 +31,12 @@
           "icon": "📄"
         },
         {
+          "id": "instrepos-osxdmgs",
+          "slug": "osxdmgs",
+          "title": "osx dmgs",
+          "icon": "📄"
+        },
+        {
           "id": "instrepos-teddysun",
           "slug": "teddysun",
           "title": "teddysun",
@@ -120,6 +126,12 @@
           "id": "instnews-ociredroid",
           "slug": "ociredroid",
           "title": "利用支持导入docker oci镜像的一键dd脚本inst.sh在debian11上安装嵌入式pve lxc redroid云手机平台（也支持其它docker）",
+          "icon": "📄"
+        },
+        {
+          "id": "instnews-osxdmginstall",
+          "slug": "osxdmginstall",
+          "title": "利用支持osx dmg镜像的一键dd面板installpanelcf重装linux为osx桌面（也支持reverse reinstall）",
           "icon": "📄"
         },
         {
@@ -315,6 +327,17 @@
       "lastUpdated": "2025-07-17"
     },
     {
+      "id": "instnews-osxdmginstall",
+      "slug": "osxdmginstall",
+      "title": "利用支持osx dmg镜像的一键dd面板installpanelcf重装linux为osx桌面（也支持reverse reinstall）",
+      "icon": "📄",
+      "desc": "",
+      "tags": [
+        "文档"
+      ],
+      "lastUpdated": "2026-08-27"
+    },
+    {
       "id": "instnews-osxsupport",
       "slug": "osxsupport",
       "title": "利用可显进度的一键dd脚本1keydd重装osx为带gui的pve",
@@ -433,7 +456,7 @@
       "tags": [
         "文档"
       ],
-      "lastUpdated": "2026-08-26"
+      "lastUpdated": "2026-08-27"
     },
     {
       "id": "instrepos-bin456789",
@@ -444,7 +467,7 @@
       "tags": [
         "文档"
       ],
-      "lastUpdated": "2026-08-26"
+      "lastUpdated": "2026-08-27"
     },
     {
       "id": "instrepos-linuxlive",
@@ -455,7 +478,7 @@
       "tags": [
         "文档"
       ],
-      "lastUpdated": "2026-08-26"
+      "lastUpdated": "2026-08-27"
     },
     {
       "id": "instrepos-natee",
@@ -466,7 +489,18 @@
       "tags": [
         "文档"
       ],
-      "lastUpdated": "2026-08-26"
+      "lastUpdated": "2026-08-27"
+    },
+    {
+      "id": "instrepos-osxdmgs",
+      "slug": "osxdmgs",
+      "title": "osx dmgs",
+      "icon": "📄",
+      "desc": "",
+      "tags": [
+        "文档"
+      ],
+      "lastUpdated": "2026-08-27"
     },
     {
       "id": "instrepos-teddysun",
@@ -477,7 +511,7 @@
       "tags": [
         "文档"
       ],
-      "lastUpdated": "2026-08-26"
+      "lastUpdated": "2026-08-27"
     },
     {
       "id": "instrepos-wikihost",
@@ -488,7 +522,7 @@
       "tags": [
         "文档"
       ],
-      "lastUpdated": "2026-08-26"
+      "lastUpdated": "2026-08-27"
     },
     {
       "id": "instrepos-windowsisos",
@@ -499,7 +533,7 @@
       "tags": [
         "文档"
       ],
-      "lastUpdated": "2026-08-26"
+      "lastUpdated": "2026-08-27"
     }
   ],
   "docs": {
@@ -635,6 +669,18 @@
       "lastUpdated": "2025-07-17",
       "category": "instnews"
     },
+    "instnews-osxdmginstall": {
+      "id": "instnews-osxdmginstall",
+      "slug": "osxdmginstall",
+      "title": "利用支持osx dmg镜像的一键dd面板installpanelcf重装linux为osx桌面（也支持reverse reinstall）",
+      "subtitle": "",
+      "icon": "📄",
+      "tags": [
+        "文档"
+      ],
+      "lastUpdated": "2026-08-27",
+      "category": "instnews"
+    },
     "instnews-osxsupport": {
       "id": "instnews-osxsupport",
       "slug": "osxsupport",
@@ -764,7 +810,7 @@
       "tags": [
         "文档"
       ],
-      "lastUpdated": "2026-08-26",
+      "lastUpdated": "2026-08-27",
       "category": "instrepos"
     },
     "instrepos-bin456789": {
@@ -776,7 +822,7 @@
       "tags": [
         "文档"
       ],
-      "lastUpdated": "2026-08-26",
+      "lastUpdated": "2026-08-27",
       "category": "instrepos"
     },
     "instrepos-linuxlive": {
@@ -788,7 +834,7 @@
       "tags": [
         "文档"
       ],
-      "lastUpdated": "2026-08-26",
+      "lastUpdated": "2026-08-27",
       "category": "instrepos"
     },
     "instrepos-natee": {
@@ -800,7 +846,19 @@
       "tags": [
         "文档"
       ],
-      "lastUpdated": "2026-08-26",
+      "lastUpdated": "2026-08-27",
+      "category": "instrepos"
+    },
+    "instrepos-osxdmgs": {
+      "id": "instrepos-osxdmgs",
+      "slug": "osxdmgs",
+      "title": "osx dmgs",
+      "subtitle": "",
+      "icon": "📄",
+      "tags": [
+        "文档"
+      ],
+      "lastUpdated": "2026-08-27",
       "category": "instrepos"
     },
     "instrepos-teddysun": {
@@ -812,7 +870,7 @@
       "tags": [
         "文档"
       ],
-      "lastUpdated": "2026-08-26",
+      "lastUpdated": "2026-08-27",
       "category": "instrepos"
     },
     "instrepos-wikihost": {
@@ -824,7 +882,7 @@
       "tags": [
         "文档"
       ],
-      "lastUpdated": "2026-08-26",
+      "lastUpdated": "2026-08-27",
       "category": "instrepos"
     },
     "instrepos-windowsisos": {
@@ -836,7 +894,7 @@
       "tags": [
         "文档"
       ],
-      "lastUpdated": "2026-08-26",
+      "lastUpdated": "2026-08-27",
       "category": "instrepos"
     }
   }
