@@ -131,7 +131,7 @@
         {
           "id": "instnews-osxdmginstall",
           "slug": "osxdmginstall",
-          "title": "利用支持osx dmg镜像的一键dd面板installpanelcf重装linux为osx桌面（也支持reverse reinstall）",
+          "title": "利用支持osx dmg镜像的一键dd面板installpanelcf重装linux杜甫为osx/黑苹果（也支持reverse reinstall）",
           "icon": "📄"
         },
         {
@@ -329,7 +329,7 @@
     {
       "id": "instnews-osxdmginstall",
       "slug": "osxdmginstall",
-      "title": "利用支持osx dmg镜像的一键dd面板installpanelcf重装linux为osx桌面（也支持reverse reinstall）",
+      "title": "利用支持osx dmg镜像的一键dd面板installpanelcf重装linux杜甫为osx/黑苹果（也支持reverse reinstall）",
       "icon": "📄",
       "desc": "",
       "tags": [
@@ -456,7 +456,7 @@
       "tags": [
         "文档"
       ],
-      "lastUpdated": "2026-08-27"
+      "lastUpdated": "2026-09-02"
     },
     {
       "id": "instrepos-bin456789",
@@ -467,7 +467,7 @@
       "tags": [
         "文档"
       ],
-      "lastUpdated": "2026-08-27"
+      "lastUpdated": "2026-09-02"
     },
     {
       "id": "instrepos-linuxlive",
@@ -478,7 +478,7 @@
       "tags": [
         "文档"
       ],
-      "lastUpdated": "2026-08-27"
+      "lastUpdated": "2026-09-02"
     },
     {
       "id": "instrepos-natee",
@@ -489,7 +489,7 @@
       "tags": [
         "文档"
       ],
-      "lastUpdated": "2026-08-27"
+      "lastUpdated": "2026-09-02"
     },
     {
       "id": "instrepos-osxdmgs",
@@ -500,7 +500,7 @@
       "tags": [
         "文档"
       ],
-      "lastUpdated": "2026-08-27"
+      "lastUpdated": "2026-09-02"
     },
     {
       "id": "instrepos-teddysun",
@@ -511,7 +511,7 @@
       "tags": [
         "文档"
       ],
-      "lastUpdated": "2026-08-27"
+      "lastUpdated": "2026-09-02"
     },
     {
       "id": "instrepos-wikihost",
@@ -522,7 +522,7 @@
       "tags": [
         "文档"
       ],
-      "lastUpdated": "2026-08-27"
+      "lastUpdated": "2026-09-02"
     },
     {
       "id": "instrepos-windowsisos",
@@ -533,7 +533,7 @@
       "tags": [
         "文档"
       ],
-      "lastUpdated": "2026-08-27"
+      "lastUpdated": "2026-09-02"
     }
   ],
   "docs": {
@@ -672,7 +672,7 @@
     "instnews-osxdmginstall": {
       "id": "instnews-osxdmginstall",
       "slug": "osxdmginstall",
-      "title": "利用支持osx dmg镜像的一键dd面板installpanelcf重装linux为osx桌面（也支持reverse reinstall）",
+      "title": "利用支持osx dmg镜像的一键dd面板installpanelcf重装linux杜甫为osx/黑苹果（也支持reverse reinstall）",
       "subtitle": "",
       "icon": "📄",
       "tags": [
@@ -810,7 +810,7 @@
       "tags": [
         "文档"
       ],
-      "lastUpdated": "2026-08-27",
+      "lastUpdated": "2026-09-02",
       "category": "instrepos"
     },
     "instrepos-bin456789": {
@@ -822,7 +822,7 @@
       "tags": [
         "文档"
       ],
-      "lastUpdated": "2026-08-27",
+      "lastUpdated": "2026-09-02",
       "category": "instrepos"
     },
     "instrepos-linuxlive": {
@@ -834,7 +834,7 @@
       "tags": [
         "文档"
       ],
-      "lastUpdated": "2026-08-27",
+      "lastUpdated": "2026-09-02",
       "category": "instrepos"
     },
     "instrepos-natee": {
@@ -846,7 +846,7 @@
       "tags": [
         "文档"
       ],
-      "lastUpdated": "2026-08-27",
+      "lastUpdated": "2026-09-02",
       "category": "instrepos"
     },
     "instrepos-osxdmgs": {
@@ -858,7 +858,7 @@
       "tags": [
         "文档"
       ],
-      "lastUpdated": "2026-08-27",
+      "lastUpdated": "2026-09-02",
       "category": "instrepos"
     },
     "instrepos-teddysun": {
@@ -870,7 +870,7 @@
       "tags": [
         "文档"
       ],
-      "lastUpdated": "2026-08-27",
+      "lastUpdated": "2026-09-02",
       "category": "instrepos"
     },
     "instrepos-wikihost": {
@@ -882,7 +882,7 @@
       "tags": [
         "文档"
       ],
-      "lastUpdated": "2026-08-27",
+      "lastUpdated": "2026-09-02",
       "category": "instrepos"
     },
     "instrepos-windowsisos": {
@@ -894,7 +894,7 @@
       "tags": [
         "文档"
       ],
-      "lastUpdated": "2026-08-27",
+      "lastUpdated": "2026-09-02",
       "category": "instrepos"
     }
   }

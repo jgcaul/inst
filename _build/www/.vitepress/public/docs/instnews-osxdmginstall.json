@@ -1,7 +1,7 @@
 {
   "id": "instnews-osxdmginstall",
   "slug": "osxdmginstall",
-  "title": "利用支持osx dmg镜像的一键dd面板installpanelcf重装linux为osx桌面（也支持reverse reinstall）",
+  "title": "利用支持osx dmg镜像的一键dd面板installpanelcf重装linux杜甫为osx/黑苹果（也支持reverse reinstall）",
   "subtitle": "",
   "icon": "📄",
   "tags": [
@@ -21,7 +21,7 @@
     {
       "type": "code",
       "language": "bash",
-      "content": "iso安装镜像都处处防修改，没法，只能整个createmediainstall到一张gpt的sparseimage上再转成为dmg。这对展开过程来说反而省事，缺点就是失去了注入无人值守和其它方面的优势，比如精简支持。只能使用原版本。"
+      "content": "apple osx install app安装镜像都处处防修改，没法，只能整个createmediainstall到一张gpt的sparseimage上再转成为dmg。这对展开过程来说反而省事，缺点就是失去了注入无人值守和其它方面的优势，比如精简支持。只能使用原版本。"
     },
     {
       "type": "text",
